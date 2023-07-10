@@ -1,4 +1,4 @@
-# Basic-Questions (Java):
+# Basic Questions (Java):
 
 ## Phase-I(A):
 
@@ -15,4 +15,9 @@
   - Write a program to check if a given year is a leap year.
   - Write a program to check if a given string is an anagram of another string.
   - Write a program to convert a decimal number to binary & vice-versa.
+  - Create a Java Code to calculate the sum of the first, second, and fifth numbers of a 5-digit number.
+  - Write a program to find the GCD (Greatest Common Divisor) of two numbers.
+  - Continuation of the previous question, Find the LCM of the same number.
+
+### <u> LEVEL-1 </u>
   - 
