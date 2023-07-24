@@ -18,4 +18,6 @@
     - String Conversion via toString(): This is automatically called in System.out.println().
 
   ## Character Extraction
-    - 
+    - charsAt(): To Extract a single character from a String based on index value.
+    - getchars(): To extract more than one character at a time.
+    
